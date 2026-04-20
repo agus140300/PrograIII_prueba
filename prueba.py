@@ -1,5 +1,7 @@
 def SumarNumero(a, b):
-    return a + b
+    suma = a + b
+    return suma
+
 if __name__ == "__main__":
     a = int(input("Ingrese el primer número: "))
     b = int(input("Ingrese el segundo número: "))
